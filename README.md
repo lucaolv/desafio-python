@@ -132,3 +132,11 @@ pytest tests/
 ---
 
 Se tiver dúvidas ou quiser expandir a aplicação, fique à vontade para explorar e modificar o código!
+
+## Participantes
+[Amanda Marques](https://github.com/AmandaMarquesCunha)
+[Ana Souza](https://github.com/anakelys)
+[Emily Dias](https://github.com/emilyestvz)
+[Jeisa Caroline](https://github.com/Caaarolb)
+[Laísa Ferreira](https://github.com/LA1SA0)
+[Lucas Vinícius](https://github.com/lucaolv)
